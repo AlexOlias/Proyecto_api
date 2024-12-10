@@ -1,0 +1,26 @@
+{
+  "name": "proyecto_api",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@splidejs/vue-splide": "^0.6.12",
+    "@vueuse/core": "^12.0.0",
+    "axios": "^1.7.8",
+    "bootstrap": "^5.3.3",
+    "vue": "^3.5.13",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass": "^1.81.0",
+    "vite": "^5.0.0",
+    "vite-plugin-vue-devtools": "^7.6.5"
+  }
+}
